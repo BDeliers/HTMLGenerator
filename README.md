@@ -1,5 +1,6 @@
 # HTMLGenerator
-Graphical HTML frame generator.
+Graphical HTML frame generator :
+  - You just have to enter the informations about your page, and it generates automatically an html file !
 
 #Python 3 is required to make the programm work, not compatible with Python 2 !
 
